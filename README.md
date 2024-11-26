@@ -1,0 +1,3 @@
+I successfully completed a project on creating an interactive Power BI dashboard Amazon sales report. Under the guidance of mentor Sourabh Poswal, I collaborated with Ashutosh singh negi, pradeep kumar,gaurav giri,Nandini saini,Sagar diwan  Throughout the project, I gained hands-on experience with Power BI, including data modeling, visualization, and dashboard design. This project showcased my ability to work in a team, analyze complex data, and create informative, interactive dashboards.
+
+#PowerBI #DataVisualization #BusinessIntelligence #EcommerceAnalytics #DataAnalysis #ProjectManagement #Teamwork #Mentorship #DataScience #BusinessAnalytics #MicrosoftPowerBI #DashboardDesign
